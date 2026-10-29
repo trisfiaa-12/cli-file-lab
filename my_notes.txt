@@ -1,2 +1,3 @@
-﻿This is my initial file.
+This is my initial file.
 Added these words directly from GitHub web.
+Adding feature branch updates.
